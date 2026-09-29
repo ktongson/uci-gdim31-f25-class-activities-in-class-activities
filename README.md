@@ -1,7 +1,9 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+After taking Camera off of the Cat GameObject, and running it, the camera just stays in place as we see the Cat moving. This happens because GameObjects nested in another object's hiearchy, will also move with that object, since we took it out of GameObject Cat's hierarchy, Camera no longer moves with it.
+
+[itch.io link](https://ktongson.itch.io/gdim)
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
