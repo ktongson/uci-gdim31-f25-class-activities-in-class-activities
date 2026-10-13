@@ -16,6 +16,10 @@ The _bounce variable is an int instead of flt, bool, or str because its' values 
 - The error you got after Step 4 of Part 2 told you something useful about why that line of code was broken- what was it?
 We didn't finish the statement of code by ending it with a ';'.
 
+### W3
+
+The code keeps increasing the balls’ color values every time they bounce while moving fast, without setting a maximum limit. This causes the brightness values to get extremely high after too many bounces.
+
 
 ## Open-Source Assets
 ### W1
