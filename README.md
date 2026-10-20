@@ -20,6 +20,11 @@ We didn't finish the statement of code by ending it with a ';'.
 
 The code keeps increasing the balls’ color values every time they bounce while moving fast, without setting a maximum limit. This causes the brightness values to get extremely high after too many bounces.
 
+### W4
+
+- Table #6 - Cat and SoccerBall have Rigidbodies to because they need to use physics and IsTrigger on the Goal because it needs to detect when a goal is made.
+
+- I had to fifure out how to make the time run per frame, and remembered that update is usually used for things per frame.
 
 ## Open-Source Assets
 ### W1
