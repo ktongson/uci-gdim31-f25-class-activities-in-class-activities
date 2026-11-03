@@ -1,0 +1,105 @@
+[33m8c04c27[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m W4 devlog
+ In Class Activities/.vsconfig                      |    6 [32m+[m
+ In Class Activities/Assets/Resources.meta          |    8 [32m+[m
+ In Class Activities/Assets/Settings.meta           |    8 [32m+[m
+ .../Assets/Settings/Build Profiles.meta            |    8 [32m+[m
+ .../Assets/Settings/Build Profiles/GDMI - W1.asset | 1028 [32m+++++[m
+ .../Settings/Build Profiles/GDMI - W1.asset.meta   |    8 [32m+[m
+ .../Sprites/AllCatsDemo/Props/CatBedBlue.png.meta  |   31 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Banner01a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Banner02a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Banner03a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Banner04a.png.meta          |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar01a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar02a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar03a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar04a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar05a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar06a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar07a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar08a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar09a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar10a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar11a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar12a.png.meta   |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Bar13a.png.meta   |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_BarFill01a.png.meta         |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_BarFill01b.png.meta         |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_BarFill01c.png.meta         |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_BarFill01d.png.meta         |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_BarFill01e.png.meta         |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_BarFill01f.png.meta         |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_BarFill01g.png.meta         |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Button01a_1.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Button01a_2.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Button01a_3.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Button01a_4.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Button02a_1.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Button02a_2.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Button02a_3.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Button02a_4.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ButtonArrow01a.png.meta     |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ButtonCheck01a.png.meta     |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ButtonCross01a.png.meta     |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ButtonMinus01a.png.meta     |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ButtonPlay01a.png.meta      |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ButtonPlus01a.png.meta      |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Frame01a.png.meta |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Frame02a.png.meta |   51 [32m+[m[31m-[m
+ .../Shared 2D/Sprites/UI/UI_Flat_Frame03a.png.meta |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameMarker01a.png.meta     |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameMarker02a.png.meta     |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameMarker03a.png.meta     |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot01a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot01b.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot01c.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot02a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot02b.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot02c.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot03a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot03b.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_FrameSlot03c.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Handle01a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Handle02a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Handle03a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Handle04a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Handle05a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Handle06a.png.meta          |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconArrow01a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconArrow01b.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconArrow01c.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconCheck01a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconCheck01b.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconCheck01c.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconCross01a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconCross01b.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconCross01c.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconDropdown01a.png.meta    |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconLine01a.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconPlay01a.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconPlay01b.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconPlay01c.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconPlay01d.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconPoint01a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconPoint01b.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconPoint01c.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_IconStripe01a.png.meta      |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_InputField01a.png.meta      |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_InputField02a.png.meta      |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Select01a_2.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Select01a_3.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Select01a_4.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Select02a_1.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Select02a_2.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Select02a_3.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_Select02a_4.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleLeftOff01a.png.meta   |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleLeftOn01a.png.meta    |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleOff01a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleOff02a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleOff03a.png.meta       |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleOn01a.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleOn02a.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleOn03a.png.meta        |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleRightOff01a.png.meta  |   51 [32m+[m[31m-[m
+ .../Sprites/UI/UI_Flat_ToggleRightOn01a.png.meta   |   51 [

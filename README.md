@@ -26,6 +26,11 @@ The code keeps increasing the balls’ color values every time they bounce while
 
 - I had to fifure out how to make the time run per frame, and remembered that update is usually used for things per frame.
 
+### W6
+
+Start creating the class for DeerW5 by starting with the class decleration, make it a MonoBehaviour, then we need to add SerializeField in order to change the variables in the Inspector, and those variables would be Transform, the movement speed, and turn speed.
+DeerW5 class should have a Start() menthod, in order to have the deer start moving, Update() in order to update the deers movement every frame, and a create a method for the deer to go towards the target GameObject using the SetDestination.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
