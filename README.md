@@ -35,6 +35,9 @@ DeerW5 class should have a Start() menthod, in order to have the deer start movi
 (https://docs.google.com/document/d/14FCrpMpAOE2QP1yT5UPCaBEYXaUTrDWGMuJivwHKa4Q/edit?tab=t.0)
 In BatW6, for our variables we have speed, and make sure to include SerializedField since we want to easily edit the bat's speed in the Inspector. We need Start(), Update() to update the bats' movement per frame, and two methods we need to make ourselves; StartChasing() for the bats to start chasing the cat and StopChasing() to stop the bats from chasing the cat. 
 
+### W8
+The incorrect cod used Vector3.forward, which will always move the Muskrat in the same world direction even when it's turning. We change it to transform.forward so the Muskrat is able to move forwards and backwards in the direction is faces. 
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
