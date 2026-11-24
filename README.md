@@ -38,6 +38,10 @@ In BatW6, for our variables we have speed, and make sure to include SerializedFi
 ### W8
 The incorrect cod used Vector3.forward, which will always move the Muskrat in the same world direction even when it's turning. We change it to transform.forward so the Muskrat is able to move forwards and backwards in the direction is faces. 
 
+### W9
+- forked 2d project
+- start setting up tilemaps for the level
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
